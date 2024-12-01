@@ -212,8 +212,10 @@ npm start
 --------
 
 
+### CONTRIBUTORS
+<a href="https://github.com/LordeVraps"><img src="https://github.com/LordeVraps".png" width="200" height="200" alt="5phesihle"/></a>
+<a href=""><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
 
-# Co-author : [@5spesihle](https://github.com/LordeVraps) 
-# Author : [@TRISTAN](https://github.com/Tristan7122)
+
 
 # TSUKUYOMI-MUILT-DEVICE
