@@ -13,8 +13,6 @@
 
 ------------
 
-<img align="center" height="auto"
-
 
 <br>
 
