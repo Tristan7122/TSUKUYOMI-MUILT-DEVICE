@@ -12,7 +12,7 @@
 <div align= "left">
 
   ### Fork 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫 Repository
-  [`FORK REPOSITORY`](https://github.com/Tristan7122/TSUKUYOMI-MUILT DEVICE/fork)
+  [`FORK REPOSITORY`](https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/fork)
 
   ### Link Bot To Your Whatsapp.
   
