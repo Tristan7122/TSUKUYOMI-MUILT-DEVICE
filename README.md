@@ -4,7 +4,7 @@
 
 
   <p align="center">
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/"><img title="Size" src="https://img.shields.io/github/repo-size/Tristan7122/TSUKUYOMI-MUILT-DEVICE?style=flat-square&color=green"></a>
@@ -26,7 +26,7 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{TSUKUYOMI-XMD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
 
 
-  <p align="center"> Meet 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. TSUKUYOMI_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
   <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/fork"><img title="𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
@@ -110,7 +110,7 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/GlobalTechInfo/SUHA
+      git clone https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE
       cd TSUKUYOMI-MD 
       yarn install --network-concurrency 1 && npm install
       ```
