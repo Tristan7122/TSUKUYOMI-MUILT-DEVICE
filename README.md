@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/dturse.jpg" width="300" height="300"/>
   <h1>𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫</h1>
 
-<a href="https://github.com/Tristan7122"><img title="Creator" src="https://img.shields.io/badge/Creator-Tristan-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Tristan7122"><img title="Creator" src="https://img.shields.io/badge/Creator-Tristan,5pesihle-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/Tristan7122?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tristan7122?color=green&style=flat-square"></a>
 <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tristan7122/TSUKUYOMI-MUILT-DEVICE?color=white&style=flat-square"></a>
@@ -38,4 +38,5 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
+# Co-author : [@5spesihle](https://github.com/LordeVraps) 
 # Author : [@TRISTAN](https://github.com/Tristan7122)# TSUKUYOMI-MUILT-DEVICE
