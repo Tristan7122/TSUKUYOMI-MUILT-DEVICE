@@ -39,9 +39,6 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
 ## Thanks to
 - [#Baileys](https://github.com/WhiskeySockets/Baileys)<br>
-- [#Sl Real Tech](https://github.com/sl-real-tech)<br>
-- [#Thashini Himanga](#)<br>
-
 # Co-author : [@5spesihle](https://github.com/LordeVraps) 
 # Author : [@TRISTAN](https://github.com/Tristan7122)
 
