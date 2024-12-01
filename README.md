@@ -213,7 +213,7 @@ npm start
 
 
 ### CONTRIBUTORS
-<a href="https://github.com/LordeVraps"><img src="https://github.com/LordeVraps".png" width="200" height="200" alt="LordeVraps"/></a>
+<a href="https://files.catbox.moe/iieoes.jpg"><img src="https://github.com/LordeVraps".png" width="200" height="200" alt="LordeVraps"/></a>
 
 
 <a href=""><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
