@@ -2,6 +2,25 @@
 <p align="center">
 <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
 
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
+
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
+
+------------
+
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=INFINITE%20TSUKOYOMI%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TSUKOYOMI%20LOVER%20432%20TRISTAN%20AND%20SPHE%20OWNER%20TSUKOYOMI%20MD%20AND%20SOBIA%20BUTT♥️&image=https://files.catbox.moe/iieoes.jpg?v=4&backgroundColor=%23ecf0f1&github=TSUKUYOMI MD &pattern=leaf&colorPattern=%23eaeaea"/>
+
+<br>
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+<br>
 
   <p align="center">
 <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
