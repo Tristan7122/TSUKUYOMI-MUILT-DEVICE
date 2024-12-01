@@ -225,7 +225,7 @@ npm start
 
 - Star ⭐ repo if you like this bot.
 - 
-[![JOIN WHATSAPP SUPPORT](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/IMF1LrcOE828VlnFCSZTtH)
+[![JOIN WHATSAPP SUPPORT](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/CicqD04sNCJ37j13LiI51p)
 --------
 
 
