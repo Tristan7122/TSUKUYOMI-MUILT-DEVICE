@@ -1,5 +1,5 @@
 <div align="center" class= "main"> 
-  <img src="https://files.catbox.moe/dturse.jpg" width="300" height="300"/>
+  <img src="https://files.catbox.moe/qf4ipv.jpg" width="300" height="300"/>
   <h1>𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫</h1>
 
 <a href="https://github.com/Tristan7122"><img title="Creator" src="https://img.shields.io/badge/Creator-Tristan,5pesihle-red.svg?style=for-the-badge&logo=github"></a>
