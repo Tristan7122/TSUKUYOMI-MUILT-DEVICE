@@ -14,7 +14,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=INFINITE%20TSUKOYOMI%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TSUKOYOMI%20LOVER%20432%20TRISTAN%20AND%20SPHE%20OWNER%20TSUKOYOMI%20MD%20AND%20SOBIA%20BUTT♥️&image=https://files.catbox.moe/iieoes.jpg?v=4&backgroundColor=%23ecf0f1&github=TSUKUYOMI MD &pattern=leaf&colorPattern=%23eaeaea"/>
+
 
 <br>
 
