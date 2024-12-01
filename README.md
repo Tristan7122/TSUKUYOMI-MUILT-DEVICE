@@ -5,8 +5,8 @@
 <a href="https://github.com/Tristan7122"><img title="Creator" src="https://img.shields.io/badge/Creator-Tristan-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/Tristan7122?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tristan7122?color=green&style=flat-square"></a>
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tristan7122/TSUKUYOMI-MUILT DEVICE?color=white&style=flat-square"></a>
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT DEVICE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tristan7122/TSUKUYOMI-MUILT DEVICE?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tristan7122/TSUKUYOMI-MUILT-DEVICE?color=white&style=flat-square"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tristan7122/TSUKUYOMI-MUILT-DEVICE?color=yellow&style=flat-square"></a>
 <br><br>
 </div>
 <div align= "left">
